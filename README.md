@@ -2,7 +2,7 @@
 > [!NOTE]
 > Proyectos debajo del README.md
 
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="bash" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5"/>
 
 ## Github Stats
 
