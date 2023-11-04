@@ -1,6 +1,7 @@
 # Bienvenido usuario amigo 👋
 > [!NOTE]
 > Proyectos debajo del README.md
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 <!--
 **Alvaro624la/Alvaro624la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
