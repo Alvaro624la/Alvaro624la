@@ -6,7 +6,7 @@
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5" width="100"/><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS" width="100"/><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="SASS" width="100"/><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JAVASCRIPT" width="100"/><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="REACT" width="100"/><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MYSQL" width="100"/><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="PYTHON" width="100"/><img src="https://seeklogo.com/images/O/odoo-logo-A4215760E7-seeklogo.com.png" alt="ODOO" width="100"/><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="WORDPRESS" width="100"/><img src="https://vectorwiki.com/images/hksJN__prestashop.svg" alt="PRESTASHOP" width="100" height="60"/>
 
 
-## Github Stats
+## Stats on GitHub / Estadísticas en GitHub
 ![MARSFOREVER472's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro624la&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--
