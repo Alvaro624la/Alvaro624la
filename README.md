@@ -11,7 +11,7 @@
 ## About me / Sobre mí
 - 🔭 I’m currently working with Odoo and everything that surrounds it / Actualmente estoy trabajando con Odoo y todo lo que lo rodea.
 - 🌱 I’m currently learning all the possible stuff about Odoo and seeing how can I work with it. / Actualmente estoy aprendiendo todo lo posible sobre Odoo y viendo cómo puedo trabajar con él.
-- 💬 Ask me about all you want:
+- 💬 Ask me about all you want / Preguntame lo que quieras:
   - LinkedIn: https://www.linkedin.com/in/alvaro-de-prado/
 
 ## My stats on GitHub / Mis estadísticas en GitHub
