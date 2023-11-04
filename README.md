@@ -2,7 +2,7 @@
 
 - Te presento mi Readme.md
 > [!NOTE]
-> Highlights information that users should take into account, even when skimming.
+> Proyectos debajo del README.md
 
 > [!IMPORTANT]
 > Crucial information necessary for users to succeed.
