@@ -4,14 +4,15 @@
 
 ## Skills
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5"/>
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS"/>
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="SASS"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JAVASCRIPT"/>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="REACT"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MYSQL"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="PYTHON"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg" alt="ODOO"/>
+<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="WORDPRESS"/>
+<img src="https://vectorwiki.com/images/hksJN__prestashop.svg" alt="PRESTASHOP"/>
 
 
 ## Github Stats
