@@ -3,8 +3,14 @@
 > Projects below the README.md / Proyectos debajo del README.md
 
 ## Skills / Habilidades
+<!--
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5" width="100"/><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS" width="100"/><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="SASS" width="100"/><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JAVASCRIPT" width="100"/><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="REACT" width="100"/><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MYSQL" width="100"/><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="PYTHON" width="100"/><img src="https://seeklogo.com/images/O/odoo-logo-A4215760E7-seeklogo.com.png" alt="ODOO" width="100"/><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="WORDPRESS" width="100"/><img src="https://vectorwiki.com/images/hksJN__prestashop.svg" alt="PRESTASHOP" width="100" height="60"/>
+-->
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5" width="90"/><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS" width="90"/><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="SASS" width="90"/><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JAVASCRIPT" width="90"/><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="REACT" width="90"/><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MYSQL" width="90"/><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="PYTHON" width="90"/><img src="https://seeklogo.com/images/O/odoo-logo-A4215760E7-seeklogo.com.png" alt="ODOO" width="90"/><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="WORDPRESS" width="90"/><img src="https://vectorwiki.com/images/hksJN__prestashop.svg" alt="PRESTASHOP" width="90" height="60"/>
 
+## About me / Sobre mí
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 - 💬 Ask me about all you want 😄
 
 ## Stats on GitHub / Estadísticas en GitHub
@@ -25,8 +31,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -
