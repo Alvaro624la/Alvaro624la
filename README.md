@@ -1,7 +1,14 @@
 # Bienvenido usuario amigo 👋
 
 - Te presento mi Readme.md
-<em> # Su título aquí </em>
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
 <!--
 **Alvaro624la/Alvaro624la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
