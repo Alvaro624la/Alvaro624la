@@ -1,9 +1,13 @@
 # Bienvenido usuario amigo 👋
 > [!NOTE]
 > Proyectos debajo del README.md
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
+> Text that is a quote
 <!--
+# A first-level heading
+## A second-level heading
+### A third-level heading
+
 **Alvaro624la/Alvaro624la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +20,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+> Text that is a quote
 -->
